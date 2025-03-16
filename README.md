@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next Js**
 
-- 👨‍💻 All of my projects are available at [https://jishnupn-react--portfolio-six-alpha.vercel.app/](https://jishnupn-react--portfolio-six-alpha.vercel.app/)
+- 👨‍💻 My portfolio --> [https://jishnupn-react--portfolio-six-alpha.vercel.app/](https://jishnupn-react--portfolio-six-alpha.vercel.app/)
 
 - 💬 Ask me about **React Js,Django**
 
