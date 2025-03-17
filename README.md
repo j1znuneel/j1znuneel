@@ -39,4 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j1znuneel&show_icons=true&locale=en" alt="j1znuneel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j1znuneel&" alt="j1znuneel" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=j1znuneel)](https://git.io/streak-stats)
