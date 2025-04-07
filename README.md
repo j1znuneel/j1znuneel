@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j1znuneel" alt="j1znuneel" /></a> </p>
 
-- 🔭 I’m currently working on [EXACT-Streamline question paper generation](https://github.com/meenakshiravindran/Exact-Frontend)
+- 🔭 I’m currently working on [Cater Ease](https://github.com/roysonmenezes/Catering-App)
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Expo**
 
-- 👨‍💻 My portfolio --> [https://jishnupn-react--portfolio-six-alpha.vercel.app/](https://jishnupn-react--portfolio-six-alpha.vercel.app/)
+- 👨‍💻 My portfolio --> [https://j1znu-portfolio.vercel.app/](https://j1znu-portfolio.vercel.app/)
 
 - 💬 Ask me about **React Js,Django**
 
 - 📫 How to reach me **jishnuputhilotneelamana@gmail.com**
 
-- 📄 Know about my experiences [https://jishnupn-react--portfolio-six-alpha.vercel.app/resume.pdf](https://jishnupn-react--portfolio-six-alpha.vercel.app/resume.pdf)
+- 📄 Know about my experiences [Resume.pdf](https://jishnupn-react--portfolio-six-alpha.vercel.app/resume.pdf)
 
 - btw, Old Github got hacked :( Had some nice repos there
 
