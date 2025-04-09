@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [Resume.pdf](https://jishnupn-react--portfolio-six-alpha.vercel.app/resume.pdf)
 
-- btw, Old Github got hacked :( Had some nice repos there
+- Old Github got hacked :( [Old github](https://github.com/jishnupn04)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
